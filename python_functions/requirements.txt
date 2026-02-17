@@ -14,7 +14,7 @@ distro==1.9.0
 firebase-admin==6.6.0
 firebase-functions==0.1.2
 Flask==3.1.0
-Flask-Cors==5.0.0
+Flask-Cors==6.0.0
 functions-framework==3.8.2
 google-api-core==2.23.0
 google-api-python-client==2.154.0
